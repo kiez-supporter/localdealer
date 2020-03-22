@@ -1,0 +1,7 @@
+config.yaml
+.idea
+/pkg/mod/
+/docker/.mysql-data/
+/pkg/sumdb/
+/bin/
+/docker/
